@@ -1,2 +1,2 @@
 # Gauss-seidel
-Analytics numerical
+Analytics methods
