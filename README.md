@@ -1,0 +1,2 @@
+# Gauss-seidel
+Analytics numerical
