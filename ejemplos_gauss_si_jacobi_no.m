@@ -1,4 +1,4 @@
-unction ejemplo_gauss_si_jacobi_no()
+function ejemplo_gauss_si_jacobi_no()
     fprintf('\n========= SISTEMA DONDE GAUSS-SEIDEL CONVERGE Y JACOBI NO =========\n');
 
     % Crear matriz simétrica definida positiva pero no diagonalmente dominante
